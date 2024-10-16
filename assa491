@@ -21,7 +21,7 @@ lib-log*
 # Coverage directory used by tools like istanbul
 coverage
 *.1cov/
-/log
+/
 # nyc test coverage
 .nyc_output
 
