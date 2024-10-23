@@ -20,7 +20,7 @@ lib-log*
 
 # Coverage directory used by tools like istanbul
 coverage
-*.1
+
 
 # nyc test coverage
 .nyc_output
